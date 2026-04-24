@@ -34,4 +34,4 @@ This archive contains standardized specifications for capital allocators:
 - `/specs/GHOST-88B_Protocol_Spec.md` — Shadow Protocol Technical Requirements.
 
 ---
-**[Initialize Handshake at agiphi.com](https://agiphi.com/initialize)**
+**[Initialize Handshake at agiphi.com](https://agiphi.com/)**
