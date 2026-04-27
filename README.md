@@ -4,7 +4,7 @@
 ### Quick Links
 - **Official Website:** [agiphi.com](https://agiphi.com)
 - **Research Paper:** [SSRN Abstract 6637158](https://ssrn.com/abstract=6637158)
-- **Digital Object Identifier:** https://doi.org/10.5281/zenodo.19737239
+- **Digital Object Identifier:** (https://doi.org/10.5281/zenodo.19809210)
 - **Contact:** [mandates@agiphi.com](mailto:mandates@agiphi.com)
 
 ---
