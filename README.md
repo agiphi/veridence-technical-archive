@@ -4,10 +4,11 @@
 
 ### Quick Links
 - **Official Website:** [agiphi.com](https://agiphi.com)
+- **Initialize Forensic Mandate:** [veridence.agiphi.com/#mandate](https://veridence.agiphi.com/#mandate)
+- **Mandate Verification Portal:** [veridence.agiphi.com/#verify](https://veridence.agiphi.com/#verify)
 - **Institutional Research (DOI):** [10.5281/zenodo.19809210](https://doi.org/10.5281/zenodo.19809210)
-- **Research Paper:** [SSRN Abstract 6637158](https://ssrn.com/abstract=6637158)
 - **Contact:** [mandates@agiphi.com](mailto:mandates@agiphi.com)
-
+    
 ---
 
 ## Overview
