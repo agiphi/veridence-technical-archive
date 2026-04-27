@@ -1,10 +1,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19809210.svg)](https://doi.org/10.5281/zenodo.19809210)
+
 # Veridence: Forensic Audit & Technical Sovereignty Protocols
 
 ### Quick Links
 - **Official Website:** [agiphi.com](https://agiphi.com)
+- **Institutional Research (DOI):** [10.5281/zenodo.19809210](https://doi.org/10.5281/zenodo.19809210)
 - **Research Paper:** [SSRN Abstract 6637158](https://ssrn.com/abstract=6637158)
-- **Digital Object Identifier:** (https://doi.org/10.5281/zenodo.19809210)
 - **Contact:** [mandates@agiphi.com](mailto:mandates@agiphi.com)
 
 ---
@@ -32,8 +33,11 @@ A standardized metric (0.0 - 100.0) that quantifies the structural health of an 
 
 ## Institutional Artifacts
 This archive contains standardized specifications for capital allocators:
+- `Redacted_Veridence_Forensic_Report.pdf` — Sample Forensic Intelligence Node Report (Standard Output).
 - `/templates/MLR_Standard_v1.tex` — Institutional LaTeX class for high-fidelity Material Liability Reports (MLR).
 - `/specs/GHOST-88B_Protocol_Spec.md` — Shadow Protocol Technical Requirements.
 
 ---
 **[Initialize Handshake at agiphi.com](https://agiphi.com/)**
+
+> *Notice: Forensic mandates are processed via the Agiphi Statutory Shield (W.S. 17-25). All technical interrogation is stateless. Agiphi does not provide manual advisory outside of established forensic mandates.*
