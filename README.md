@@ -1,44 +1,13 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19809210.svg)](https://doi.org/10.5281/zenodo.19809210)
+# Veridence Technical Archive
 
-# Veridence: Forensic Audit & Technical Sovereignty Protocols
+**Legacy public archive — not the current technical specification.**
 
-### Quick Links
-- **Official Website:** [agiphi.com](https://agiphi.com)
-- **Initialize Forensic Mandate:** [veridence.agiphi.com/#mandate](https://veridence.agiphi.com/#mandate)
-- **Mandate Verification Portal:** [veridence.agiphi.com/#verify](https://veridence.agiphi.com/#verify)
-- **Institutional Research (DOI):** [10.5281/zenodo.19809210](https://doi.org/10.5281/zenodo.19809210)
-- **Contact:** [mandates@agiphi.com](mailto:mandates@agiphi.com)
-    
----
+This repository preserves historical Veridence research material. It is not the authoritative source for current implementation, methodology, deployment configuration, source code, or operational controls.
 
-## Overview
-This repository serves as the public technical archive for the **Veridence Forensic Engine** and the **Shadow Protocol (GHOST-88B)**. Agiphi provides institutional-grade technical due diligence for mid-market M&A, identifying material financial liabilities—**EBITDA Killers**—through deterministic infrastructure telemetry.
+Current Veridence technology and detailed technical documentation are maintained privately and are shared with qualified counterparties through an appropriate diligence process.
 
-Our methodology shifts the burden of trust from legal contracts to technical certainty.
+Historical material in this repository may not represent the current system. It should not be used as a current product specification, performance guarantee, or commercial representation.
 
-## Core IP & Methodology
+For current non-proprietary architecture evidence, use Agiphi's separate public reference implementation repositories.
 
-### 1. The Shadow Protocol (GHOST-88B)
-A zero-retention forensic framework architected for **Confidential Computing (AMD SEV)** enclaves. 
-- **Stateless Execution:** Data is ingested into volatile memory and purged upon mandate termination.
-- **VPC-SC Isolation:** Hardened network perimeters prevent data exfiltration during active reasoning.
-- **Cryptographic Finality:** SHA-256 Forensic Payloads verify the integrity of the audit without maintaining underlying PII.
-
-### 2. Knowledge Silo Index (Gini)
-A formal logic model used to quantify **Key Man Risk** and **Hostage IP**. By analyzing code authorship variance and architectural dependencies, we provide a deterministic score of institutional reliance on specific engineering personnel.
-
-### 3. The Veridence Score
-A standardized metric (0.0 - 100.0) that quantifies the structural health of an asset.
-- **60.0 - 75.0:** Material Deficit (Requires Valuation Adjustment)
-- **< 60.0:** Distressed Asset (High-Severity EBITDA Risk)
-
-## Institutional Artifacts
-This archive contains standardized specifications for capital allocators:
-- `Redacted_Veridence_Forensic_Report.pdf` — Sample Forensic Intelligence Node Report (Standard Output).
-- `/templates/MLR_Standard_v1.tex` — Institutional LaTeX class for high-fidelity Material Liability Reports (MLR).
-- `/specs/GHOST-88B_Protocol_Spec.md` — Shadow Protocol Technical Requirements.
-
----
-**[Initialize Handshake at agiphi.com](https://agiphi.com/)**
-
-> *Notice: Forensic mandates are processed via the Agiphi Statutory Shield (W.S. 17-25). All technical interrogation is stateless. Agiphi does not provide manual advisory outside of established forensic mandates.*
+**Commercial diligence should use the private Veridence diligence package, not this archive.**
